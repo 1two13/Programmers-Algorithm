@@ -13,6 +13,9 @@ Level 1 🥚
 |8|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[신고 결과 받기.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0_2022%20KAKAO%20BLIND%20RECRUITMENT.js)|
 |9|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C_2021%20KAKAO%20BLIND%20RECRUITMENT.js)|
 |10|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[크레인 인형뽑기 게임.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84_2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD.js)|
+|11|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[완주하지 못한 선수.js](https://github.com/1two13/Practice-Algorithm/blob/8e1074f2ce63a1a5a4df8c23776b67cf17f3d5c0/Lv.1/%F0%9F%98%B5/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js)|
+<!-- |3|테스트2|테스트3| -->
+
 
 Level 2 🐣
 ||문제출처|풀이|
