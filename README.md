@@ -9,10 +9,14 @@ Level 1 🥚
 |4|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[없는 숫자 더하기.js](https://github.com/1two13/Practice-Algorithm/blob/b89bd19183d8cae56b6fbf062ace04bd4ffe020f/Lv.1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0_%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C3.js)|
 |5|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[음양 더하기.js](https://github.com/1two13/Practice-Algorithm/blob/b89bd19183d8cae56b6fbf062ace04bd4ffe020f/Lv.1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0_%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C2.js)|
 |6|[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[K번째 수.js](https://github.com/1two13/Practice-Algorithm/blob/b89bd19183d8cae56b6fbf062ace04bd4ffe020f/Lv.1/%EC%A0%95%EB%A0%AC_K%EB%B2%88%EC%A7%B8%EC%88%98.js)|
+|7|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[소수만들기.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.js)|
+|8|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)|[신고 결과 받기.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0_2022%20KAKAO%20BLIND%20RECRUITMENT.js)|
+|9|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[신규 아이디 추천.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C_2021%20KAKAO%20BLIND%20RECRUITMENT.js)|
+|10|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[크레인 인형뽑기 게임.js](https://github.com/1two13/Practice-Algorithm/blob/f62a5c1111bc6d89d1cb1b4fb34e8e6710f9622e/Lv.1/%E2%9D%8C%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84_2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD.js)|
 
 Level 2 🐣
 ||문제출처|풀이|
 |------|---|---|
-|1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||
+|1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Practice-Algorithm/blob/47550a48b9258a4bc99ae39a6440e67884d9a0b0/Lv.2/%F0%9F%98%B5/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)|
 <!-- |2|테스트2|테스트3|
 |3|테스트2|테스트3| -->
