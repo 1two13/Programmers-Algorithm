@@ -35,6 +35,32 @@ function solution(lottos, win_nums) {
   // 만약 같은 숫자가 1개이고, 0이 하나도 없으면 => return [6, 6]
 }
 
+//!나의 코드
+// 수동적으로 작성했던 코드들은 모두 제거하였고, 코드만을 가지고 구동되는 코드로 짜보았다.
+// 정확성 93.3
+// max 부분을 다른분 코드를 참고하여 바꾸면 정확성 100으로 통과된다.
+function solution(lottos, win_nums) {
+  // ([구매한 로또 번호], [당첨번호])
+  // 0의 개수 확인하고, zero 에 기록
+  let zero = 0;
+  for (let i = 0; i < 6; i++) {
+    if (lottos[i] === 0) zero++;
+  }
+  // 같은 숫자 개수 기록하기
+  let sameNum = 0;
+  for (let i = 0; i < 6; i++) {
+    for (let j = 0; j < 6; j++) {
+      if (lottos[i] === win_nums[j]) sameNum++;
+    }
+  }
+  // 최고순위 => 같은 숫자 개수 + 0 개수에 따라서 결정됨
+  let max = zero + sameNum > 5 ? 1 : 7 - (zero + sameNum);
+  // 최저순위 => 7 - (같은 숫자 개수 + 0 개수) 에 따라서 결정됨
+  let min = 7 - sameNum > 6 ? 6 : 7 - sameNum;
+
+  return [max, min]; // [최고순위, 최저순위]
+}
+
 //!다른분 코드
 function solution(lottos, win_nums) {
   // ([구매한 로또 번호], [당첨번호])
