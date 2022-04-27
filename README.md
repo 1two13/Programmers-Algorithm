@@ -20,7 +20,8 @@ Level 1 🥚
 |15|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[체육복.js](https://github.com/1two13/Practice-Algorithm/commit/c038f49898d81cfd885d9fd2f62269c0830205e8)|
 |16|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[2016년.js](https://github.com/1two13/Practice-Algorithm/blob/main/Lv.1/%F0%9F%99%86%F0%9F%8F%BB/2016%EB%85%84.js)|
 |17|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[약수의 개수와 덧셈.js](https://github.com/1two13/Practice-Algorithm/commit/e9b72808eee525146213dbd1d7b125077ddaef59)|
-|18|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[예산.js]()|
+|18|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[예산.js](https://github.com/1two13/Practice-Algorithm/commit/b4f79bc3fd31cd54037066e3ad99a2cfed9248b0)|
+|19|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[폰켓몬.js]()|
 
 <!-- |3|테스트2|테스트3| -->
 
