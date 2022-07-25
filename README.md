@@ -22,9 +22,11 @@ Level 1 🥚
 |17|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[약수의 개수와 덧셈.js](https://github.com/1two13/Practice-Algorithm/commit/e9b72808eee525146213dbd1d7b125077ddaef59)|
 |18|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[예산.js](https://github.com/1two13/Practice-Algorithm/commit/b4f79bc3fd31cd54037066e3ad99a2cfed9248b0)|
 |19|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[폰켓몬.js](https://github.com/1two13/Practice-Algorithm/blob/main/Lv.1/%F0%9F%99%86%F0%9F%8F%BB/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)|
-|20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[두 개 뽑아서 더하기.js]()|
+|20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[두 개 뽑아서 더하기.js](https://github.com/1two13/Programmers-Algorithm/commit/4022f431f5a53e67df328958be059e02bba5d9e2#diff-54505b8735e6123acb22777fbab15621bec9830573672e15b402b97a113c97d1)|
+|21|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[이상한 문자 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/e41db94400748d3d2d5d7c55e526921380336215)|
 
-<!-- |3|테스트2|테스트3| -->
+
+<!-- |3|[]()|[.js]()| -->
 
 Level 2 🐣
 ||문제출처|풀이|
