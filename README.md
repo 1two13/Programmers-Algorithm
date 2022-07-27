@@ -24,7 +24,8 @@ Level 1 🥚
 |19|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[폰켓몬.js](https://github.com/1two13/Practice-Algorithm/blob/main/Lv.1/%F0%9F%99%86%F0%9F%8F%BB/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)|
 |20|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[두 개 뽑아서 더하기.js](https://github.com/1two13/Programmers-Algorithm/commit/4022f431f5a53e67df328958be059e02bba5d9e2#diff-54505b8735e6123acb22777fbab15621bec9830573672e15b402b97a113c97d1)|
 |21|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[이상한 문자 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/e41db94400748d3d2d5d7c55e526921380336215)|
-
+|22|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|[직사각형 별찍기.js](https://github.com/1two13/Programmers-Algorithm/commit/0aa37a23113c423294a74a67288b48a95023120c)|
+|23|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|[행렬의 덧셈.js](https://github.com/1two13/Programmers-Algorithm/commit/ddcae6b271e07ec55dcb2901ca18845b1fcd2284)|
 
 <!-- |3|[]()|[.js]()| -->
 
