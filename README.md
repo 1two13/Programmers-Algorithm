@@ -26,6 +26,7 @@ Level 1 🥚
 |21|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[이상한 문자 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/e41db94400748d3d2d5d7c55e526921380336215)|
 |22|[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|[직사각형 별찍기.js](https://github.com/1two13/Programmers-Algorithm/commit/0aa37a23113c423294a74a67288b48a95023120c)|
 |23|[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|[행렬의 덧셈.js](https://github.com/1two13/Programmers-Algorithm/commit/ddcae6b271e07ec55dcb2901ca18845b1fcd2284)|
+|24|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[x만큼 간격이 있는 n개의 숫자.js](https://github.com/1two13/Programmers-Algorithm/commit/019a4c9ca5b7349283307eae3d49b2b38c2e4707)|
 
 <!-- |3|[]()|[.js]()| -->
 
