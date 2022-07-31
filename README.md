@@ -29,6 +29,7 @@ Level 1 🥚
 |24|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[x만큼 간격이 있는 n개의 숫자.js](https://github.com/1two13/Programmers-Algorithm/commit/019a4c9ca5b7349283307eae3d49b2b38c2e4707)|
 |25|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[핸드폰 번호 가리기.js](https://github.com/1two13/Programmers-Algorithm/commit/a5d952f4aaa5e5692ef4ce0c76b8b6ceac08b445)|
 |26|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[하샤드 수.js](https://github.com/1two13/Programmers-Algorithm/commit/9e0f8a1c6953201725fe76b5c3187c63a980124d)|
+|27|[가운데 글자 가져오기]()|[가운데 글자 가져오기.js](https://github.com/1two13/Programmers-Algorithm/commit/3728740d490f63d85e51b37e948141177fe0442e)|
 
 <!-- |3|[]()|[.js]()| -->
 
