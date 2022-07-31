@@ -30,13 +30,14 @@ Level 1 🥚
 |25|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[핸드폰 번호 가리기.js](https://github.com/1two13/Programmers-Algorithm/commit/a5d952f4aaa5e5692ef4ce0c76b8b6ceac08b445)|
 |26|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|[하샤드 수.js](https://github.com/1two13/Programmers-Algorithm/commit/9e0f8a1c6953201725fe76b5c3187c63a980124d)|
 |27|[가운데 글자 가져오기]()|[가운데 글자 가져오기.js](https://github.com/1two13/Programmers-Algorithm/commit/3728740d490f63d85e51b37e948141177fe0442e)|
+|28|[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|[약수의 합.js](https://github.com/1two13/Programmers-Algorithm/commit/07478c4024e4cc57b42a70c2024ebc294e70b2eb)|
+|29|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[나누어 떨어지는 숫자 배열.js](https://github.com/1two13/Programmers-Algorithm/commit/fdf0b174f54d6e68143f88c62c6f2e077b41528a)|
+|30|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|[두 정수 사이의 합.js](https://github.com/1two13/Programmers-Algorithm/commit/28c45a08b6f1db1258e7d601451f737cfcc239a3)|
+|31|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[문자열 내 마음대로 정렬하기.js]()|
 
-<!-- |3|[]()|[.js]()| -->
+<!--|31|[]()|[.js]()|-->
 
 Level 2 🐣
 ||문제출처|풀이|
 |------|---|---|
 |1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Practice-Algorithm/blob/47550a48b9258a4bc99ae39a6440e67884d9a0b0/Lv.2/%F0%9F%98%B5/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)|
-
-<!-- |2|테스트2|테스트3|
-|3|테스트2|테스트3| -->
