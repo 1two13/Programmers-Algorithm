@@ -34,6 +34,7 @@ Level 1 🥚
 |29|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|[나누어 떨어지는 숫자 배열.js](https://github.com/1two13/Programmers-Algorithm/commit/fdf0b174f54d6e68143f88c62c6f2e077b41528a)|
 |30|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|[두 정수 사이의 합.js](https://github.com/1two13/Programmers-Algorithm/commit/28c45a08b6f1db1258e7d601451f737cfcc239a3)|
 |31|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[문자열 내 마음대로 정렬하기.js](https://github.com/1two13/Programmers-Algorithm/commit/a9c2ec28e53168173155af37dc8428c54010b465)|
+|32|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[문자열 내 p와 y의 개수.js](https://github.com/1two13/Programmers-Algorithm/commit/9efc9d0f062d0c902d13005ee44f3d038f77d23d)|
 
 <!--|31|[]()|[.js]()|-->
 
