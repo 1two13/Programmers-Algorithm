@@ -36,7 +36,7 @@ Level 1 🥚
 |31|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[문자열 내 마음대로 정렬하기.js](https://github.com/1two13/Programmers-Algorithm/commit/a9c2ec28e53168173155af37dc8428c54010b465)|
 |32|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[문자열 내 p와 y의 개수.js](https://github.com/1two13/Programmers-Algorithm/commit/9efc9d0f062d0c902d13005ee44f3d038f77d23d)|
 |33|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|[평균 구하기.js](https://github.com/1two13/Programmers-Algorithm/commit/7432cc86729c01dad59c3c5df82e8a58f8e4151c)|
-
+|34|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[제일 작은 수 제거하기.js](https://github.com/1two13/Programmers-Algorithm/commit/d462e7106ca384947610e9a77944af5a6d48cb52)|
 
 <!--|31|[]()|[.js]()|-->
 
