@@ -39,6 +39,7 @@ Level 1 🥚
 |34|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[제일 작은 수 제거하기.js](https://github.com/1two13/Programmers-Algorithm/commit/d462e7106ca384947610e9a77944af5a6d48cb52)|
 |35|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|[짝수와 홀수.js](https://github.com/1two13/Programmers-Algorithm/commit/6706f4a4a46bec3218c0b1a1306b940fb556755b)|
 |36|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|[최대공약수와 최소공배수.js](https://github.com/1two13/Programmers-Algorithm/commit/04c4cfa5a66344490082524848d6be017cab0ef6)|
+|37|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|[콜라츠 추측.js](https://github.com/1two13/Programmers-Algorithm/commit/d4b1d79e0a086abdaac7b1ed978a8ad611f581bb)|
 
 <!--|31|[]()|[.js]()|-->
 
