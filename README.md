@@ -40,6 +40,8 @@ Level 1 🥚
 |35|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|[짝수와 홀수.js](https://github.com/1two13/Programmers-Algorithm/commit/6706f4a4a46bec3218c0b1a1306b940fb556755b)|
 |36|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|[최대공약수와 최소공배수.js](https://github.com/1two13/Programmers-Algorithm/commit/04c4cfa5a66344490082524848d6be017cab0ef6)|
 |37|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|[콜라츠 추측.js](https://github.com/1two13/Programmers-Algorithm/commit/d4b1d79e0a086abdaac7b1ed978a8ad611f581bb)|
+|38|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|[자릿수 더하기.js](https://github.com/1two13/Programmers-Algorithm/commit/877a4110584a441e9b7130773326076657becf76)|
+|39|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[자연수 뒤집어 배열로 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/177ab59b6f87496d531aa671aedd8dfeedc64da0)|
 
 <!--|31|[]()|[.js]()|-->
 
