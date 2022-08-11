@@ -42,6 +42,9 @@ Level 1 🥚
 |37|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|[콜라츠 추측.js](https://github.com/1two13/Programmers-Algorithm/commit/d4b1d79e0a086abdaac7b1ed978a8ad611f581bb)|
 |38|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|[자릿수 더하기.js](https://github.com/1two13/Programmers-Algorithm/commit/877a4110584a441e9b7130773326076657becf76)|
 |39|[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[자연수 뒤집어 배열로 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/177ab59b6f87496d531aa671aedd8dfeedc64da0)|
+|40|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[정수 내림차순으로 배치하기.js](https://github.com/1two13/Programmers-Algorithm/commit/66352968a855a6b3097724ce6d9ab578a99a8a48)|
+|41|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[정수 제곱근 판별.js](https://github.com/1two13/Programmers-Algorithm/commit/1c88e6d2b8a3e92b83b40881f7b671723f416119)|
+|42|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[시저 암호.js](https://github.com/1two13/Programmers-Algorithm/commit/45d969f08bdf4b0daeb80bd76c5bd51f4ef3c3e0)|
 
 <!--|31|[]()|[.js]()|-->
 
