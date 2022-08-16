@@ -45,7 +45,9 @@ Level 1 🥚
 |40|[정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|[정수 내림차순으로 배치하기.js](https://github.com/1two13/Programmers-Algorithm/commit/66352968a855a6b3097724ce6d9ab578a99a8a48)|
 |41|[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[정수 제곱근 판별.js](https://github.com/1two13/Programmers-Algorithm/commit/1c88e6d2b8a3e92b83b40881f7b671723f416119)|
 |42|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[시저 암호.js](https://github.com/1two13/Programmers-Algorithm/commit/45d969f08bdf4b0daeb80bd76c5bd51f4ef3c3e0)|
-
+|43|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|[문자열을 정수로 바꾸기.js](https://github.com/1two13/Programmers-Algorithm/commit/f9135277562c4c8c6acfb63e89457e5e9f202918)|
+|44|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[수박수박수박수박수박수?.js](https://github.com/1two13/Programmers-Algorithm/commit/bbbf8d88ac565383b0804af067fc0fdb7b89e997)|
+|45|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[소수 찾기.js](https://github.com/1two13/Programmers-Algorithm/commit/7f9712515dd09959b92a2ae3c352b3b1aa2f31ed)|
 <!--|31|[]()|[.js]()|-->
 
 Level 2 🐣
