@@ -1,6 +1,6 @@
 // 숫자로만 구성되어 있으면서 길이가 4 또는 6인 것만 true 리턴
 
-//!나의 코드
+//!나의 코드 (틀린 코드)
 function solution(s) {
   let answer = true;
   // 문자열 길이가 4가 아니거나 6이 아니면 false
