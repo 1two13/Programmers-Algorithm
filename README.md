@@ -48,6 +48,15 @@ Level 1 🥚
 |43|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|[문자열을 정수로 바꾸기.js](https://github.com/1two13/Programmers-Algorithm/commit/f9135277562c4c8c6acfb63e89457e5e9f202918)|
 |44|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[수박수박수박수박수박수?.js](https://github.com/1two13/Programmers-Algorithm/commit/bbbf8d88ac565383b0804af067fc0fdb7b89e997)|
 |45|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[소수 찾기.js](https://github.com/1two13/Programmers-Algorithm/commit/7f9712515dd09959b92a2ae3c352b3b1aa2f31ed)|
+|46|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)|[서울에서 김서방 찾기.js](https://github.com/1two13/Programmers-Algorithm/commit/6084e98470e952aed4119bd2d400ac9e55488190)|
+|47|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|[문자열 다루기 기본.js](https://github.com/1two13/Programmers-Algorithm/commit/45f02d7753d580099d710d84442411aa9f7085d5)|
+<!-- |48|[]()|[.js]()|
+|49|[]()|[.js]()|
+|50|[]()|[.js]()| -->
+
+
+
+
 <!--|31|[]()|[.js]()|-->
 
 Level 2 🐣
