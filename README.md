@@ -50,12 +50,10 @@ Level 1 🥚
 |45|[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)|[소수 찾기.js](https://github.com/1two13/Programmers-Algorithm/commit/7f9712515dd09959b92a2ae3c352b3b1aa2f31ed)|
 |46|[서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919?language=javascript)|[서울에서 김서방 찾기.js](https://github.com/1two13/Programmers-Algorithm/commit/6084e98470e952aed4119bd2d400ac9e55488190)|
 |47|[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|[문자열 다루기 기본.js](https://github.com/1two13/Programmers-Algorithm/commit/45f02d7753d580099d710d84442411aa9f7085d5)|
-<!-- |48|[]()|[.js]()|
-|49|[]()|[.js]()|
-|50|[]()|[.js]()| -->
-
-
-
+|48|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[문자열 내림차순으로 배치하기.js](https://github.com/1two13/Programmers-Algorithm/commit/9c0bdbaa929596b53f725c3d6772d1fee6795693)|
+|49|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[같은 숫자는 싫어.js](https://github.com/1two13/Programmers-Algorithm/commit/b43cfc6856ae619de44301e7e6a4c0ceaa95faf1)|
+|50|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|[부족한 금액 계산하기.js](https://github.com/1two13/Programmers-Algorithm/commit/e3aa5cc07535785c047940340be90fde531c2f84)|
+|51|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[최소직사각형.js](https://github.com/1two13/Programmers-Algorithm/commit/e778b4f8809dff945efc2f130b1188742b34ab02)|
 
 <!--|31|[]()|[.js]()|-->
 
