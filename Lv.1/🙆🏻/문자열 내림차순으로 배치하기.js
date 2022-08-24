@@ -13,7 +13,6 @@ function solution(s) {
 }
 
 //!다른 분 코드
-
 function solution(s) {
   return s.split("").sort().reverse().join("");
 }
