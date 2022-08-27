@@ -78,26 +78,27 @@ function solution(id_list, report, k) {
 //!다른 분 코드
 function solution(id_list, report, k) {
   const answer = new Array(id_list.length);
-  answer.fill(0); // [0, 0, 0, 0]
+  answer.fill(0);
+  // 각 유저별로 처리 결과 메일을 받은 횟수
+  // console.log(answer); // [0, 0, 0, 0]
 
   const report_list = {};
-
-  id_list.map((user) => {
-    report_list[user] = []; // key로 userid를 value로 빈 배열을 가지는 객체
-  });
+  // key로 userid를 value로 빈 배열을 가지는 객체
+  id_list.map((user) => (report_list[user] = []));
   // console.log(report_list) // { muzi: [], frodo: [], apeach: [], neo: [] }
 
   report.map((user) => {
     // 띄어쓰기를 기준으로 split하고, split 한 값을 구조분해할당
     const [user_id, report_id] = user.split(" ");
-
-    // 값에 user_id 값이 없으면 추가해주기
+    // console.log(id, report)
+    // 신고당한ID : 이용자ID
     if (!report_list[report_id].includes(user_id))
       report_list[report_id].push(user_id);
   });
+  // console.log(report_list) // {muzi: [ 'apeach' ], frodo: [ 'muzi', 'apeach' ], apeach: [], neo: [ 'frodo', 'muzi' ]}
 
   for (const key in report_list) {
-    // 만약 해당 key가 이용정지 유저라면
+    // k번 이상 신고 당했다면
     if (report_list[key].length >= k) {
       report_list[key].map((user) => {
         answer[id_list.indexOf(user)] += 1;
