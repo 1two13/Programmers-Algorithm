@@ -54,6 +54,11 @@ Level 1 🥚
 |49|[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[같은 숫자는 싫어.js](https://github.com/1two13/Programmers-Algorithm/commit/b43cfc6856ae619de44301e7e6a4c0ceaa95faf1)|
 |50|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|[부족한 금액 계산하기.js](https://github.com/1two13/Programmers-Algorithm/commit/e3aa5cc07535785c047940340be90fde531c2f84)|
 |51|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[최소직사각형.js](https://github.com/1two13/Programmers-Algorithm/commit/e778b4f8809dff945efc2f130b1188742b34ab02)|
+|52|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[성격 유형 검사하기.js](https://github.com/1two13/Programmers-Algorithm/commit/ff24c8a38b5a67f24c2cc2d7781ec9fb2f26b4df)|
+|53|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[키패드 누르기.js](https://github.com/1two13/Programmers-Algorithm/commit/1ba32ea8f14afecc6f773c4e55508eaf56af63ff)|
+|54|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[실패율.js](https://github.com/1two13/Programmers-Algorithm/commit/47f156f31a292d32ff733069fe8ee40a6f677cfb)|
+<!-- |55|[]()|[.js]()|
+|56|[]()|[.js]()| -->
 
 <!--|31|[]()|[.js]()|-->
 
