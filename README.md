@@ -57,8 +57,8 @@ Level 1 🥚
 |52|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[성격 유형 검사하기.js](https://github.com/1two13/Programmers-Algorithm/commit/ff24c8a38b5a67f24c2cc2d7781ec9fb2f26b4df)|
 |53|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[키패드 누르기.js](https://github.com/1two13/Programmers-Algorithm/commit/1ba32ea8f14afecc6f773c4e55508eaf56af63ff)|
 |54|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[실패율.js](https://github.com/1two13/Programmers-Algorithm/commit/47f156f31a292d32ff733069fe8ee40a6f677cfb)|
-<!-- |55|[]()|[.js]()|
-|56|[]()|[.js]()| -->
+|55|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[다트 게임.js](https://github.com/1two13/Programmers-Algorithm/commit/47f156f31a292d32ff733069fe8ee40a6f677cfb)|
+<!-- |56|[]()|[.js]()| -->
 
 <!--|31|[]()|[.js]()|-->
 
