@@ -58,11 +58,11 @@ Level 1 🥚
 |53|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[키패드 누르기.js](https://github.com/1two13/Programmers-Algorithm/commit/1ba32ea8f14afecc6f773c4e55508eaf56af63ff)|
 |54|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[실패율.js](https://github.com/1two13/Programmers-Algorithm/commit/47f156f31a292d32ff733069fe8ee40a6f677cfb)|
 |55|[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[다트 게임.js](https://github.com/1two13/Programmers-Algorithm/commit/47f156f31a292d32ff733069fe8ee40a6f677cfb)|
-<!-- |56|[]()|[.js]()| -->
-
-<!--|31|[]()|[.js]()|-->
+|56|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[비밀지도.js](https://github.com/1two13/Programmers-Algorithm/commit/fe61f1ed1d45d93384759d65cf788fd2137f03b7)|
 
 Level 2 🐣
 ||문제출처|풀이|
 |------|---|---|
 |1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Practice-Algorithm/blob/47550a48b9258a4bc99ae39a6440e67884d9a0b0/Lv.2/%F0%9F%98%B5/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)|
+<!--|31|[]()|[.js]()|-->
+
