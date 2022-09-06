@@ -63,6 +63,6 @@ Level 1 🥚
 Level 2 🐣
 ||문제출처|풀이|
 |------|---|---|
-|1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Practice-Algorithm/blob/47550a48b9258a4bc99ae39a6440e67884d9a0b0/Lv.2/%F0%9F%98%B5/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.js)|
+|1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Programmers-Algorithm/commit/a2cf07ae6e8072c85328e9b49525fa60e1f0a048)|
 <!--|31|[]()|[.js]()|-->
 
