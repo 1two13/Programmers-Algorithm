@@ -1,6 +1,6 @@
 // numbers 배열에 담긴 정수들의 순서는 바꾸지 않기
 
-// 깊이 우선 탐색
+// 깊이 우선 탐색(DFS) => 스택
 
 //!나의 코드
 // DFS 로 푸는것은 맞는거 같은데! 재귀로 못 돌리겠다..
@@ -31,16 +31,16 @@ function solution(numbers, target) {
 function solution(numbers, target) {
   let answer = 0;
 
+  // 초기값 설정
   dfs(0, 0);
 
   function dfs(index, sum) {
-    if (index === numbers.length) {
+    if (index < numbers.length) {
+      dfs(index + 1, sum + numbers[index]);
+      dfs(index + 1, sum - numbers[index]);
+    } else {
       if (sum === target) answer++;
-      return;
     }
-
-    dfs(index + 1, sum + numbers[index]);
-    dfs(index + 1, sum - numbers[index]);
   }
 
   return answer;
