@@ -26,17 +26,28 @@ function solution(survey, choices) {
   }
   // console.log(splitCriteria); // 	{ R: 0, T: 0, C: 0, F: 0, J: 0, M: 0, A: 0, N: 0 }
 
-  // choices.length만큼 반복문
+  // // choices.length만큼 반복문
+  // for (let i = 0; i < choices.length; i++) {
+  //   // choices가 1 ~ 3 라면, survey[i][0]에 값 주기
+  //   if (choices[i] === 1) splitCriteria[survey[i][0]] += 3;
+  //   else if (choices[i] === 2) splitCriteria[survey[i][0]] += 2;
+  //   else if (choices[i] === 3) splitCriteria[survey[i][0]] += 1;
+  //   // choices === 4 라면 survey[i][0], survey[i][1] 모두 0 값 주기
+  //   // choices가 5 ~ 7 라면, survey[i][1]에 값 주기
+  //   else if (choices[i] === 5) splitCriteria[survey[i][1]] += 1;
+  //   else if (choices[i] === 6) splitCriteria[survey[i][1]] += 2;
+  //   else if (choices[i] === 7) splitCriteria[survey[i][1]] += 3;
+  // }
+
+  // 위에서 하드코딩한 식 수정
   for (let i = 0; i < choices.length; i++) {
     // choices가 1 ~ 3 라면, survey[i][0]에 값 주기
-    if (choices[i] === 1) splitCriteria[survey[i][0]] += 3;
-    else if (choices[i] === 2) splitCriteria[survey[i][0]] += 2;
-    else if (choices[i] === 3) splitCriteria[survey[i][0]] += 1;
+    if (choices[i] >= 1 && choices[i] <= 3)
+      splitCriteria[survey[i][0]] += Math.abs(choices[i] - 4);
     // choices === 4 라면 survey[i][0], survey[i][1] 모두 0 값 주기
     // choices가 5 ~ 7 라면, survey[i][1]에 값 주기
-    else if (choices[i] === 5) splitCriteria[survey[i][1]] += 1;
-    else if (choices[i] === 6) splitCriteria[survey[i][1]] += 2;
-    else if (choices[i] === 7) splitCriteria[survey[i][1]] += 3;
+    if (choices[i] >= 5 && choices[i] <= 7)
+      splitCriteria[survey[i][1]] += Math.abs(choices[i] - 4);
   }
   // console.log(splitCriteria) // { R: 6, T: 1, C: 0, F: 0, J: 0, M: 0, A: 0, N: 0 }
 
