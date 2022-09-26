@@ -64,5 +64,17 @@ Level 2 🐣
 ||문제출처|풀이|
 |------|---|---|
 |1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Programmers-Algorithm/commit/a2cf07ae6e8072c85328e9b49525fa60e1f0a048)|
-<!--|31|[]()|[.js]()|-->
+|2|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최댓값과 최솟값.js](https://github.com/1two13/Programmers-Algorithm/commit/77a59afcae6570c0e25393d23d5af47d1f023dda)|
+|3|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JadenCase 문자열 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/458d3beb0174cfc6d65d3aea1f1fe3847e6823c5)|
+<!--|4|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.js]()|-->
 
+<!--|1|[]()|[.js]()|-->
+<!--|2|[]()|[.js]()|-->
+<!--|3|[]()|[.js]()|-->
+<!--|4|[]()|[.js]()|-->
+<!--|5|[]()|[.js]()|-->
+<!--|6|[]()|[.js]()|-->
+<!--|7|[]()|[.js]()|-->
+<!--|8|[]()|[.js]()|-->
+<!--|9|[]()|[.js]()|-->
+<!--|10|[]()|[.js]()|-->
