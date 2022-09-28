@@ -66,7 +66,8 @@ Level 2 🐣
 |1|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟 넘버.js](https://github.com/1two13/Programmers-Algorithm/commit/a2cf07ae6e8072c85328e9b49525fa60e1f0a048)|
 |2|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최댓값과 최솟값.js](https://github.com/1two13/Programmers-Algorithm/commit/77a59afcae6570c0e25393d23d5af47d1f023dda)|
 |3|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JadenCase 문자열 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/458d3beb0174cfc6d65d3aea1f1fe3847e6823c5)|
-<!--|4|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.js]()|-->
+|4|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.js](https://github.com/1two13/Programmers-Algorithm/commit/08e91360f83fdbb099be4d345b9cbf5347837d62)|
+|5|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[최솟값 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/6f0e6ca7bac20735cab39bcc4c89bea9cf2942af)|
 
 <!--|1|[]()|[.js]()|-->
 <!--|2|[]()|[.js]()|-->
