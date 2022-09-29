@@ -68,14 +68,13 @@ Level 2 🐣
 |3|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JadenCase 문자열 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/458d3beb0174cfc6d65d3aea1f1fe3847e6823c5)|
 |4|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.js](https://github.com/1two13/Programmers-Algorithm/commit/08e91360f83fdbb099be4d345b9cbf5347837d62)|
 |5|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[최솟값 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/6f0e6ca7bac20735cab39bcc4c89bea9cf2942af)|
+|6|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[올바른 괄호.js](https://github.com/1two13/Programmers-Algorithm/commit/6abb0a8b6059da7f3d0ae10aacd923abee09d6e1)|
+|7|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[숫자의 표현.js](https://github.com/1two13/Programmers-Algorithm/commit/533c7383a6ef1d1739dc4fe9ce6155466533649d)|
+|8|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[피보나치 수.js](https://github.com/1two13/Programmers-Algorithm/commit/7a2af4bd895ff3db3baf5ddc0a95f2bfdd1e21b9)|
+|9|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[다음 큰 숫자.js](https://github.com/1two13/Programmers-Algorithm/commit/0169379949fa01467d7ca74483834d2984b2fc69)|
+|10|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[카펫.js](https://github.com/1two13/Programmers-Algorithm/commit/27b740ae08918511096a5f962a177d91b67bf43a)|
+|11|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[영어 끝말잇기.js](https://github.com/1two13/Programmers-Algorithm/commit/3dd7a94f42f0673ad1bb0e6424ee136f4ee029f6)|
+|12|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[짝지어 제거하기.js](https://github.com/1two13/Programmers-Algorithm/commit/e502d6ff39a880401fbde389d3cceba8155d2672)|
+|13|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/1two13/Programmers-Algorithm/commit/f8dc02725689518206d48719f777dadee2e6a1f9)|
 
 <!--|1|[]()|[.js]()|-->
-<!--|2|[]()|[.js]()|-->
-<!--|3|[]()|[.js]()|-->
-<!--|4|[]()|[.js]()|-->
-<!--|5|[]()|[.js]()|-->
-<!--|6|[]()|[.js]()|-->
-<!--|7|[]()|[.js]()|-->
-<!--|8|[]()|[.js]()|-->
-<!--|9|[]()|[.js]()|-->
-<!--|10|[]()|[.js]()|-->
