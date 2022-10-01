@@ -76,5 +76,8 @@ Level 2 🐣
 |11|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[영어 끝말잇기.js](https://github.com/1two13/Programmers-Algorithm/commit/3dd7a94f42f0673ad1bb0e6424ee136f4ee029f6)|
 |12|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[짝지어 제거하기.js](https://github.com/1two13/Programmers-Algorithm/commit/e502d6ff39a880401fbde389d3cceba8155d2672)|
 |13|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/1two13/Programmers-Algorithm/commit/f8dc02725689518206d48719f777dadee2e6a1f9)|
+|14|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[N개의 최소공배수.js](https://github.com/1two13/Programmers-Algorithm/commit/b2235c7a1c39d3ec0f06308e9a9b07031f7fd95e)|
+|15|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[예상 대진표.js](https://github.com/1two13/Programmers-Algorithm/commit/f2e419472bd23a954435ed3cdddb66b753a75412)|
+|16|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[멀리 뛰기.js](https://github.com/1two13/Programmers-Algorithm/commit/852e20777d356f7bc8f8810019376b8814c56131)|
 
 <!--|1|[]()|[.js]()|-->
