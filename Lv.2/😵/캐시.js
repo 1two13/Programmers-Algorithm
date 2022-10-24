@@ -77,7 +77,3 @@ function solution(cacheSize, cities) {
 
   return answer;
 }
-
-cacheSize = 2;
-cities = ["Jeju", "Pangyo", "NewYork", "newyork"];
-answer = 16;
