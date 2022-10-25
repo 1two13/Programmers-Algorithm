@@ -79,5 +79,10 @@ Level 2 🐣
 |14|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[N개의 최소공배수.js](https://github.com/1two13/Programmers-Algorithm/commit/b2235c7a1c39d3ec0f06308e9a9b07031f7fd95e)|
 |15|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[예상 대진표.js](https://github.com/1two13/Programmers-Algorithm/commit/f2e419472bd23a954435ed3cdddb66b753a75412)|
 |16|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[멀리 뛰기.js](https://github.com/1two13/Programmers-Algorithm/commit/852e20777d356f7bc8f8810019376b8814c56131)|
+|17|[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[점프와 순간 이동.js](https://github.com/1two13/Programmers-Algorithm/commit/041e08226ada94b590233deba8b0518d3f30e343)|
+|18|[캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[캐시.js](https://github.com/1two13/Programmers-Algorithm/commit/4eed57771ff788d44cd583da8311b3328c369de0)|
+|19|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747#)|[H-Index.js](https://github.com/1two13/Programmers-Algorithm/commit/94f06659ca3b29337e8a422a59c1999127316349)|
+|20|[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[행렬의 곱셈.js](https://github.com/1two13/Programmers-Algorithm/commit/9687cff071de87b846e70751608c145d31a993ce)|
+|21|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|[괄호 회전하기.js](https://github.com/1two13/Programmers-Algorithm/commit/280e96413d04c3eb476fd85a1f6b296cb353f4d7)|
 
 <!--|1|[]()|[.js]()|-->
