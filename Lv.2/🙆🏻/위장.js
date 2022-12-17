@@ -1,21 +1,18 @@
 //!나의 코드
-function getCountArray(clothes) {
+function getValues(clothes) {
   let obj = {};
   for (let i = 0; i < clothes.length; i++) {
-    if (obj.hasOwnProperty(clothes[i][1])) obj[clothes[i][1]] += 1;
-    else obj[clothes[i][1]] = 1;
+    const type = clothes[i][1];
+    if (obj.hasOwnProperty(type)) obj[type] += 1;
+    else obj[type] = 1;
   }
 
   return Object.values(obj);
 }
 
 function solution(clothes) {
-  let answer = 1;
-  const countArray = getCountArray(clothes);
-
-  for (let i = 0; i < countArray.length; i++) {
-    answer *= 1 + countArray[i];
-  }
+  const values = getValues(clothes);
+  const answer = values.reduce((a, b) => a * (1 + b), 1);
 
   return answer - 1;
 }
