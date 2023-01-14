@@ -87,5 +87,7 @@ Level 2 🐣
 |22|[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[위장.js](https://github.com/1two13/Programmers-Algorithm/commit/9aa1bbadaec9862f5d010c7ed1ea559cb60db3b2)|
 |23|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[튜플.js](https://github.com/1two13/Programmers-Algorithm/commit/f5c341c897d107c690662a6f6004b7aa388dcf81)|
 |24|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[기능개발.js](https://github.com/1two13/Programmers-Algorithm/commit/6064581cffe5b4ff9d14e4f09029437a7ad69a83)|
+|25|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[n^2 배열 자르기.js](https://github.com/1two13/Programmers-Algorithm/commit/1f799da9797e2fd2b45fd5d06c6e52ef405d8ecb)|
+|26|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[프린터.js](https://github.com/1two13/Programmers-Algorithm/commit/96af4c113a7a83a36959e5675e11bfc15b7c5626)|
 
 <!--|1|[]()|[.js]()|-->
