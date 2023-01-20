@@ -67,15 +67,15 @@ Level 2 🐣
 |2|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최댓값과 최솟값.js](https://github.com/1two13/Programmers-Algorithm/commit/77a59afcae6570c0e25393d23d5af47d1f023dda)|
 |3|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JadenCase 문자열 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/458d3beb0174cfc6d65d3aea1f1fe3847e6823c5)|
 |4|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[이진 변환 반복하기.js](https://github.com/1two13/Programmers-Algorithm/commit/08e91360f83fdbb099be4d345b9cbf5347837d62)|
-|5|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[최솟값 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/6f0e6ca7bac20735cab39bcc4c89bea9cf2942af)|
+|5|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[최솟값 만들기.js](https://github.com/1two13/Programmers-Algorithm/commit/500cd2dfa21121161bdb37501d40704a253e68c9)|
 |6|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[올바른 괄호.js](https://github.com/1two13/Programmers-Algorithm/commit/6abb0a8b6059da7f3d0ae10aacd923abee09d6e1)|
 |7|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[숫자의 표현.js](https://github.com/1two13/Programmers-Algorithm/commit/533c7383a6ef1d1739dc4fe9ce6155466533649d)|
 |8|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[피보나치 수.js](https://github.com/1two13/Programmers-Algorithm/commit/7a2af4bd895ff3db3baf5ddc0a95f2bfdd1e21b9)|
 |9|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[다음 큰 숫자.js](https://github.com/1two13/Programmers-Algorithm/commit/0169379949fa01467d7ca74483834d2984b2fc69)|
 |10|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[카펫.js](https://github.com/1two13/Programmers-Algorithm/commit/27b740ae08918511096a5f962a177d91b67bf43a)|
-|11|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[영어 끝말잇기.js](https://github.com/1two13/Programmers-Algorithm/commit/3dd7a94f42f0673ad1bb0e6424ee136f4ee029f6)|
-|12|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[짝지어 제거하기.js](https://github.com/1two13/Programmers-Algorithm/commit/e502d6ff39a880401fbde389d3cceba8155d2672)|
-|13|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/1two13/Programmers-Algorithm/commit/f8dc02725689518206d48719f777dadee2e6a1f9)|
+|11|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[영어 끝말잇기.js](https://github.com/1two13/Programmers-Algorithm/commit/967bd5c9f7d84c67655770fc57acd083d087ad82)|
+|12|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[짝지어 제거하기.js](https://github.com/1two13/Programmers-Algorithm/commit/590504a974cfc9959892732a3d0d6bd223f8f333)|
+|13|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[구명보트.js](https://github.com/1two13/Programmers-Algorithm/commit/1b83fe0d05acf879efc5782fe133f0a31347073a)|
 |14|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[N개의 최소공배수.js](https://github.com/1two13/Programmers-Algorithm/commit/b2235c7a1c39d3ec0f06308e9a9b07031f7fd95e)|
 |15|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[예상 대진표.js](https://github.com/1two13/Programmers-Algorithm/commit/f2e419472bd23a954435ed3cdddb66b753a75412)|
 |16|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[멀리 뛰기.js](https://github.com/1two13/Programmers-Algorithm/commit/852e20777d356f7bc8f8810019376b8814c56131)|
@@ -89,5 +89,7 @@ Level 2 🐣
 |24|[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[기능개발.js](https://github.com/1two13/Programmers-Algorithm/commit/6064581cffe5b4ff9d14e4f09029437a7ad69a83)|
 |25|[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[n^2 배열 자르기.js](https://github.com/1two13/Programmers-Algorithm/commit/1f799da9797e2fd2b45fd5d06c6e52ef405d8ecb)|
 |26|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[프린터.js](https://github.com/1two13/Programmers-Algorithm/commit/96af4c113a7a83a36959e5675e11bfc15b7c5626)|
+|27|[[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[[1차] 뉴스 클러스터링.js](https://github.com/1two13/Programmers-Algorithm/commit/59d45e9652e82a95e588a052df2681ccc74245a7)|
+|28|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[귤 고르기.js](https://github.com/1two13/Programmers-Algorithm/commit/cc9548c5af75cfbe0fd74004013cd25284187a30)|
 
 <!--|1|[]()|[.js]()|-->
