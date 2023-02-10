@@ -1,4 +1,4 @@
-//! 나의 코드(78.6점)
+//! 나의 코드
 // 선행 스킬 순서, 유저가 스킬을 배울 순서
 function solution(skill, skill_trees) {
   // 가능한 스킬 트리 개수
