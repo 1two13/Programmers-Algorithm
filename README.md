@@ -95,6 +95,6 @@ Level 2 🐣
 |30|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[연속 부분 수열 합의 개수.js](https://github.com/1two13/Programmers-Algorithm/commit/42015409477dce26028a7b7b0d629c0e117613f1)|
 |31|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|[피로도.js]()|
 |32|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993?language=javascript)|[스킬트리.js](https://github.com/1two13/Programmers-Algorithm/commit/a06ce339c1aed61412d586800617823b1bf71939)|
-|33|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript)|[방문 길이.js]()|
+|33|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript)|[방문 길이.js](https://github.com/1two13/Programmers-Algorithm/commit/a8fe428365ceeafa6200ec2201fc0acc8b80035b)|
 
 <!--|1|[]()|[.js]()|-->
