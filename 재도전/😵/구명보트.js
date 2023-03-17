@@ -27,8 +27,6 @@ function solution(people, limit) {
 
   let i = 0;
   for (j = people.length - 1; i < j; j--) {
-    // 제일 작은 수와 제일 큰 수 더한 값이 limit보다 작거나 같으면
-    // 그 다음으로 작은 값과 그 다음으로 큰 값 더하고...
     if (people[i] + people[j] <= limit) i++;
   }
 
