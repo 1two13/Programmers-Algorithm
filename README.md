@@ -97,5 +97,6 @@ Level 2 🐣
 |32|[스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993?language=javascript)|[스킬트리.js](https://github.com/1two13/Programmers-Algorithm/commit/a06ce339c1aed61412d586800617823b1bf71939)|
 |33|[방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=javascript)|[방문 길이.js](https://github.com/1two13/Programmers-Algorithm/commit/a8fe428365ceeafa6200ec2201fc0acc8b80035b)|
 |34|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|[할인 행사.js](https://github.com/1two13/Programmers-Algorithm/commit/d405b371b6ff482a3e01a07ff9e1b75bb09fa74f)|
+|35|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[땅따먹기.js](https://github.com/1two13/Programmers-Algorithm/commit/45e848bc8f3b9bd4a4daaa592015d281b940f156)|
 
 <!--|1|[]()|[.js]()|-->
