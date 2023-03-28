@@ -1,24 +1,22 @@
-//!나의 코드(8.8)
+//!나의 코드
 function solution(k, tangerine) {
   // 귤 k개를 고를 때 크기가 서로 다른 종류의 수의 최솟값
   let answer = 0;
-  let arr = [tangerine[0]];
-  let count = 0;
+  let obj = {};
 
-  tangerine.sort((a, b) => a - b);
-  console.log(tangerine);
-
-  let i = 1;
-  while (answer <= k) {
-    if (arr.includes(tangerine[i])) {
-      arr.pop();
-      answer += 2;
-      count++;
-    } else arr.push(tangerine[i]);
-    i++;
+  // 크기: 개수
+  for (let i = 0; i < tangerine.length; i++) {
+    let el = tangerine[i];
+    if (obj.hasOwnProperty(el)) obj[el] += 1;
+    else obj[el] = 1;
   }
 
-  return count - 1;
+  const arr = Object.values(obj).sort((a, b) => b - a);
+
+  for (let j = 0; j < arr.length; j++) {
+    answer += arr[j];
+    if (answer >= k) return j + 1;
+  }
 }
 
 //!다른 분 코드
