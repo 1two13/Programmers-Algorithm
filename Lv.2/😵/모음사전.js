@@ -6,9 +6,6 @@ function solution(word) {
   return [...word].reduce((a, c, i) => a + 'AEIOU'.indexOf(c) * Math.floor(781 / 5 ** i) + 1, 0);
 }
 
-debugger;
-solution('AAAAE');
-
 //!다른 분 코드
 function solution(word) {
   const alphas = ['A', 'E', 'I', 'O', 'U'];
