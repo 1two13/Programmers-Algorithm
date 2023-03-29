@@ -39,3 +39,20 @@ function solution(numbers, target) {
 
   return answer;
 }
+
+//!다른 분 코드
+function solution(numbers, target) {
+  let answer = 0;
+
+  function dfs(level, sum) {
+    if (level === numbers.length) {
+      if (sum === target) answer += 1;
+    } else {
+      dfs(level + 1, sum + numbers[level]);
+      dfs(level + 1, sum - numbers[level]);
+    }
+  }
+  dfs(0, 0);
+
+  return answer;
+}
