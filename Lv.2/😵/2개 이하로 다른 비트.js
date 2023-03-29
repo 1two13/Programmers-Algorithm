@@ -48,3 +48,19 @@ function solution(numbers) {
 
   return answer;
 }
+
+function solution(maps) {
+  // n * m 크기의 게임 맵 상태가 들어있는 2차원 배열 // 0은 벽이 있는, 1은 벽이 없는
+  // 캐릭터가 상대 팀 진영에 도착하기 위해 지나가야 하는 칸의 개수의 최솟값
+  let answer = 0;
+  // maps의 가로 길이
+  let n = maps.length;
+  // maps의 세로 길이
+  let m = maps[0].length;
+
+  // 상대팀이 자신의 팀 진영 주위에 벽을 두었다면 상대팀 진영에 도착하지 못할 수도 있음
+  // 이 경우 -1 리턴하기
+  if (maps[n - 2][m - 2] === 0 && maps[n - 2][m - 1] === 0 && maps[n - 1][m - 2] === 0) return -1;
+
+  return answer;
+}
