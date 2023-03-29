@@ -1,13 +1,6 @@
-// numbers 배열에 담긴 정수들의 순서는 바꾸지 않기
-
-// 깊이 우선 탐색(DFS) => 스택
-
-//!나의 코드
+//!나의 코드(틀린 코드)
 // DFS 로 푸는것은 맞는거 같은데! 재귀로 못 돌리겠다..
-// 하기 코드는 정답코드가 아님.
 function solution(numbers, target) {
-  // 숫자가 담긴 배열, 만드려고 하는 숫자
-
   let count = 0;
   let result = 0;
 
@@ -39,6 +32,7 @@ function solution(numbers, target) {
       dfs(index + 1, sum + numbers[index]);
       dfs(index + 1, sum - numbers[index]);
     } else {
+      // 마지막까지 레벨까지 갔을 때 sum이 target이랑 같은지 확인
       if (sum === target) answer++;
     }
   }
