@@ -1,9 +1,8 @@
-// 어떻게 방향성을 잡아야할지 감이 안잡혀서 답지 오픈
+//!나의 코드
+// 어떻게 방향성을 잡아야할지 모르겠다.
 
 //!다른 분 코드
 function solution(sizes) {
-  // 모든 명함의 가로, 세로길이를 나타내는 2차원 배열 [[w, h]...]
-
   // w가 h보다 작으면 두개를 바꾸기
   const rotated = sizes.map(([w, h]) => (w < h ? [h, w] : [w, h]));
   let maxSize = [0, 0];
@@ -13,5 +12,5 @@ function solution(sizes) {
     if (h > maxSize[1]) maxSize[1] = h;
   });
 
-  return maxSize[0] * maxSize[1];
+  return maxSize[0] * maxSize[1]; // 모든 명함을 수납할 수 있는 가장 작은 크기
 }
