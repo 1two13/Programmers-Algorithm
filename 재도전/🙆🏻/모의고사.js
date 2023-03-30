@@ -1,44 +1,4 @@
-//!나의 코드
-// 정확성 42.9점
-function solution(answers) {
-  // answers 배열을 쉼표없는 문자열로 만들기
-  const answer = answers.toString().split(",").join("");
-  // 1, 2, 3 수포자가 찍는 방식을 문자열로 만들기
-  const one = "12345"; // 5
-  const two = "21232425"; // 8
-  const three = "3311224455"; // 10
-  // 반복문으로 검사하면서 일치하는 숫자가 있다면 count++
-  let oneCount = 0;
-  let twoCount = 0;
-  let threeCount = 0;
-  for (let i = 0; i < answer.length; i++) {
-    if (one[i] === answer[i]) {
-      oneCount++;
-    }
-  }
-  for (let j = 0; j < answer.length; j++) {
-    if (two[j] === answer[j]) {
-      twoCount++;
-    }
-  }
-  for (let k = 0; k < answer.length; k++) {
-    if (three[k] === answer[k]) {
-      threeCount++;
-    }
-  }
-  // oneCount, twoCount, threeCount(점수) 비교해서 제일 큰 수를 배열에 담아서 리턴
-  // oneCount, twoCount, threeCount 비교해서 같은 수가 있다면 오름차순으로 정렬시킨 후 배열에 담아서 리턴
-  let arr = [oneCount, twoCount, threeCount];
-  let result = [];
-  if (Math.max(...arr) === oneCount) result.push(1);
-  if (Math.max(...arr) === twoCount) result.push(2);
-  if (Math.max(...arr) === threeCount) result.push(3);
-
-  return result;
-}
-
-//!나의 코드
-// answers, one, two, three 모두 그냥 배열로 풀어도 됬었다.
+//!나의 코드(정답코드)
 // 조건문에서 one[i] === answer[i] 를 비교하게 되면 one[0] ~ one[4] 까지만 확인할 수 있기 때문에,
 // one[i % 5] === answers[i] 으로 비교함으로써 one의 인덱스와 관계없이 비교를 할 수 있다.
 function solution(answers) {
@@ -70,6 +30,29 @@ function solution(answers) {
   if (Math.max(...arr) === oneCount) result.push(1);
   if (Math.max(...arr) === twoCount) result.push(2);
   if (Math.max(...arr) === threeCount) result.push(3);
+
+  return result;
+}
+
+//!나의 코드
+function solution(answers) {
+  const A = [1, 2, 3, 4, 5];
+  const B = [2, 1, 2, 3, 2, 4, 2, 5];
+  const C = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5];
+  let arr = [0, 0, 0]; // 문제를 가장 맞힌 사람
+  let result = [];
+
+  for (let i = 0; i < answers.length; i++) {
+    if (A[i % A.length] === answers[i]) arr[0] += 1;
+    if (B[i % B.length] === answers[i]) arr[1] += 1;
+    if (C[i % C.length] === answers[i]) arr[2] += 1;
+  }
+
+  let max = Math.max(...arr);
+
+  if (max === arr[0]) result.push(1);
+  if (max === arr[1]) result.push(2);
+  if (max === arr[2]) result.push(3);
 
   return result;
 }
