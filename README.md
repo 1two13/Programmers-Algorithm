@@ -100,5 +100,6 @@ Level 2 🐣
 |35|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[땅따먹기.js](https://github.com/1two13/Programmers-Algorithm/commit/45e848bc8f3b9bd4a4daaa592015d281b940f156)|
 |36|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|[모음사전.js](https://github.com/1two13/Programmers-Algorithm/commit/02925d5e896ca1c5f307a6a5525cd0002ab76f3c)|
 |37|[2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)|[2개 이하로 다른 비트.js](https://github.com/1two13/Programmers-Algorithm/commit/9f2f5eca5acdeb838c2f0bd790fba3eb98a0dd56)|
+|38|[배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|[배달.js](https://github.com/1two13/Programmers-Algorithm/commit/47d72dcae2f0804048e95eefa7d7c2d0f2b5ff2e)|
 
 <!--|1|[]()|[.js]()|-->
